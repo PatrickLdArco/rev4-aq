@@ -117,11 +117,11 @@ Ao frasco à esquerda adicionou-se uma quantidade pré-determinada de raspas de 
 2. Use o volume de hidrogênio produzido para calcular a quantidade de gás em mols.
 3. Utilize a relação estequiométrica da reação para determinar a massa de zinco que reagiu.
 
+![Imagem](image_3_paragraph_49.png)
+
 Opções de resposta:
 
-A) 
-![Imagem](image_3_paragraph_49.png)
- 0,07
+A) 0,07
 
 B) 0,13
 
