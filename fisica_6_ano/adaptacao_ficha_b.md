@@ -2,7 +2,7 @@
 
 A imagem abaixo apresenta a ficha técnica do carro up! da Volkswagen.
 
-![Imagem](image_0_paragraph_4.png)
+![Imagem](image_0_paragraph_4_paragraph_4.png)
 
 Fonte: http://www.vw.com.br/content/medialib/vwd4/br/folhetos/up/_jcr_content/renditions/rendition_0.download_attachment.file/catalogo_nobre_up_bx.pdf. Acesso: 24 de out. de 2014.
 
